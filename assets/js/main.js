@@ -38,6 +38,7 @@ sr.reveal(".home__title", {});
 sr.reveal(".button", { delay: 200 });
 sr.reveal(".home__img", { delay: 400 });
 sr.reveal(".home__social-icon", { interval: 200 });
+sr.reveal(".home__title-color",{delay:50});
 
 /*SCROLL ABOUT*/
 sr.reveal(".about__img", {});
